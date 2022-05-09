@@ -1,4 +1,4 @@
-EXTM3U - JIKA ANDA MENJUAL KAN PLAYLIST KAMI . ANDA DIKIRA SEBAGAI MAKAN DUIT HARAM 🗿
+EXTM3U - 
 
 
 
@@ -11,8 +11,8 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MALAYSIA" ,TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MALAYSIA" ,TV3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 group-title=GG ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="DramaSangat" group-title="MuZu | myFreeview" ch-number="105" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",105 Drama Sangat
 # https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
