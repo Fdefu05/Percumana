@@ -2913,18 +2913,18 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Events/Anugerah-Drama-Sangat-Mel
 #EXTINF-1 type="series" group-title="Events" tvg-logo="https://aqfadtv.astradamy.com/images/2021MAMA.png",2021 MAMA (via Tonton)
 https://onedrive.astradamy.com/api?path=/Events/MAMA.2021.cinema.tonton.com.my.mp4&raw=true&type=file.mp4
 
-#EXTINF:-1 tvg-id="TV3" group-title="MUFAKH MYTV" ch-number="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
+#EXTINF:-1 tvg-id="TV3" group-title="o MYTV" ch-number="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
 # https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
-#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="MUFAKH SPORTS",PREMIER SPORTS
+#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="oSPORTS",PREMIER SPORTS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-id="809" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="MUFAKH SPORTS",Astro Supersport Plus
+#EXTINF:-1 tvg-id="809" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="oSPORTS",Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 <noscript>
