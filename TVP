@@ -16,10 +16,9 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Refer
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41G_-Gitcfb71SZqS2-oc-k9uVlh4e6H_iTKK9yiy9Zec=YaJ7/dash-wv/jitp-linearwm/1004/default_ott.mpd
-# https://hbogo.skyforever.tk/go2go/ria/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="STRO",ASTRO RIA
+http://linears-playback.astro.com.my/vsg/41tLqTk8Qr_mAdji8fcpJaAPAvNTxlnuSFHKTIDQgSqzw=Qba2/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2913,6 +2912,20 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Events/Anugerah-Drama-Sangat-Mel
 
 #EXTINF-1 type="series" group-title="Events" tvg-logo="https://aqfadtv.astradamy.com/images/2021MAMA.png",2021 MAMA (via Tonton)
 https://onedrive.astradamy.com/api?path=/Events/MAMA.2021.cinema.tonton.com.my.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="TV3" group-title="MUFAKH MYTV" ch-number="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
+#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="MUFAKH SPORTS",PREMIER SPORTS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
+#EXTINF:-1 tvg-id="809" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="MUFAKH SPORTS",Astro Supersport Plus
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 <noscript>
 <script type="text/javascript">(function(){window['__CF$cv$params']={r:'6f57e0040ff94828',m:'7BuM_GkIfwaG8SxWGv0VP2xh.SmQRSFakK9gSvEAQxM-1648884793-0-AXxwzqVoysJGr7eXIJg78EK3PFLshk5uu7PHWeQFZ7Ysg0hDW4OmuR45pnu3XSxSb5eUDJ49n3hP2AI022n毁➶ﺡ挑臌ꎖ꧐斛཰흰嵕ᖂ䞽짨古==',s:[0x5ba61ed892,0xc228e84690],u:'/cdn-cgi/challenge-platform/h/b'}})();</script>
